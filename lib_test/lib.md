@@ -23,9 +23,12 @@
 - 系统库（核心库）是dart提供的常用内置库
 - 不需要单独下载，就可以直接使用
 ### 引入系统库
+```
 import 'dart:库名';
 import 'dart:core; // 自动引入
-- 系统库列表
-https://dart.cn/guides/libraries
+```
+- 系统库列表  
+[系统库地址](https://dart.cn/guides/libraries)
 
-
+  
+![part part of](part_part_of.png "part part of")
